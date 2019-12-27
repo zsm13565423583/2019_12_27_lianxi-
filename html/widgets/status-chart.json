@@ -1,0 +1,11 @@
+[ {
+  "uid" : "5446f09c20bba5c8",
+  "name" : "test_add_png.TestAddPng.test_001",
+  "time" : {
+    "start" : 1577355854078,
+    "stop" : 1577355854081,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

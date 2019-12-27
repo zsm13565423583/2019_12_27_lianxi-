@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-B4892MDH",
+    "children" : [ {
+      "name" : "24120-MainThread",
+      "children" : [ {
+        "name" : "test_add_png.TestAddPng.test_001",
+        "uid" : "5446f09c20bba5c8",
+        "parentUid" : "f007c71f678311e892bd7ab8b5224dea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1577355854078,
+          "stop" : 1577355854081,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f007c71f678311e892bd7ab8b5224dea"
+    } ],
+    "uid" : "1a66a444954f18338b9a54bd8719d448"
+  } ]
+}
